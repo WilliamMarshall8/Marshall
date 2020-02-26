@@ -1,0 +1,1 @@
+START "GameA" "C:\TestGameSourceByWilliamMarshall\Emulator-Folder\DOSBOX\DOSBox.EXE" "C:\TestGameSourceByWilliamMarshall\Games-Folder\ExAlleyCat\CAT.EXE" -NOCONSOLE 

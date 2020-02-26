@@ -1,0 +1,1 @@
+START "GameA" "C:\TestGameSourceByWilliamMarshall\Emulator-Folder\DOSBOX\DOSBox.EXE" "C:\TestGameSourceByWilliamMarshall\Games-Folder\ExWolf3D\WOLF3D.EXE" -NOCONSOLE 
