@@ -1,4 +1,4 @@
-just copy and put the entire Marshall-master folder on C:\ drive
+just copy and put the entire Marshall-master folder on C:\ drive.
 
 
 By: William Marshall
