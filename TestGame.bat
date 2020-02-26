@@ -49,7 +49,7 @@ IF '%CH%' LSS 0 GOTO ERROR
 :A 
 CLS
 ECHO Initializing Game A...
-CALL "C:\TestGameSourceByWilliamMarshall\Games-Folder\GameA.BAT"
+CALL "C:\Marshall-master\Games-Folder\GameA.BAT"
 PAUSE
 CLS
 GOTO INTERFACE
@@ -57,7 +57,7 @@ GOTO INTERFACE
 :B
 CLS
 ECHO Initializing Game B...
-CALL "C:\TestGameSourceByWilliamMarshall\Games-Folder\GameB.BAT"
+CALL "C:\Marshall-master\Games-Folder\GameB.BAT"
 PAUSE
 CLS
 GOTO INTERFACE
@@ -67,7 +67,7 @@ CLS
 GOTO NAME
 
 :LICENSE
-CALL C:\TestGameSourceByWilliamMarshall\LICENSE.TXT"
+CALL C:\Marshall-master\LICENSE.TXT"
 PAUSE 
 CLS
 GOTO INTERFACE
